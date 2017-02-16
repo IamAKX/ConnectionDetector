@@ -36,6 +36,7 @@ detector.isConnected(view, message);
 > NOTE : ```view``` is View of current component responsible for triggering this method call. Incase of button's onClickListener, pass the view mentioned in onClick function's parameter. Getting the layout view,get the view by calling ```getWindow().getDecorView()```. In fragments, use ```getActivity().getWindow().getDecorView()```.
 ##
 ##
+
 #### Detecting WiFi Connectivity
 
 **Create an object of class DetectWifi by passing the context of current activity in parameter.**
