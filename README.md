@@ -57,6 +57,7 @@ detector.isConnected(view, message, action);
 > NOTE : ```action``` is boolean value, set **true** to set action to TURN ON wifi from the snackbar.
 ##
 ##
+
 #### Detecting Hotspot Connectivity
 
 **Create an object of class DetectHotspot by passing the context of current activity in parameter.**
